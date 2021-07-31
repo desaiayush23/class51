@@ -1,0 +1,23 @@
+h1{
+    color:blanchedalmond
+}
+    
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: left;
+}
+body {
+    background-color: rgb(128,128,128);
+    justify-content: space-evenly;
+}
